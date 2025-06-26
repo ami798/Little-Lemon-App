@@ -1,3 +1,26 @@
+# 🍋 Little Lemon Restaurant
+
+This is a simple front-end web app for the Little Lemon Restaurant.  
+It was built using React, Vite, and React Router.
+
+## 📌 Pages
+- Home
+- Reservation
+- Profile
+- Confirmation
+
+## 🛠 Built With
+- React
+- Vite
+- React Router
+- CSS
+
+## 🚀 Run Locally
+
+```bash
+npm install
+npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
