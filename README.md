@@ -24,7 +24,7 @@ It was built using **React**, **Vite** and **React Router** .
 ---
 
 🌍 Live Demo  
-🔗 [Click here to view the live site](https://little-lemon-ai857hklo-amiras-projects-de1cdc17.vercel.app/)
+🔗 [Click here to view the live site](https://little-lemon-app-eight.vercel.app/)
 
 ## 🚀 Run Locally
 
