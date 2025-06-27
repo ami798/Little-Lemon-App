@@ -29,5 +29,5 @@ It was built using **React**, **Vite** and **React Router** .
 npm install
 npm run dev
 
-🌍 Live Demo
-🔗 Click here to view the live site [https://little-lemon-ai857hklo-amiras-projects-de1cdc17.vercel.app/]
+🌍 Live Demo  
+🔗 [Click here to view the live site](https://little-lemon-ai857hklo-amiras-projects-de1cdc17.vercel.app/)
